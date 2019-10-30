@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Test_00_Deploy_Robot">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/libs/Test_00_Deploy_Robot.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
